@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bacter Anti-Mosquito Repellent</string>
+    <string name="dangerous">Dangerous</string>
+    <string name="help">Help</string>
+    <!--string name="help_msg">This app uses a frequency between 20 kHz to 100 kHz, because it is inaudible to adults.\10\10\9This app emits an annoying, high-frequency sound that should scare away mosquito that might be roaming around your house.\10\10\9The pitch of the sound is so high that most humans will not notice anything.</string>-->
+    <string name="tewenty_two">22KHz</string>
+    <string name="_08khz">08kHz</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="_10khz">10kHz</string>
+    <string name="_12khz">12kHz</string>
+    <string name="_14khz">14kHz</string>
+    <string name="_16khz">16kHz</string>
+    <string name="_17khz">17kHz</string>
+    <string name="_20khz">20kHz</string>
+    <string name="_21khz">21kHz</string>
+    <string name="_22khz">22kHz</string>
+    <string name="_24khz">24kHz</string>
+    <string name="share">Share</string>
+    <string name="dev">Developed by:BdFreak</string>
+</resources>
